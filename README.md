@@ -35,6 +35,8 @@ Welcome to my personal portfolio! I am a final-year Computer Science Engineering
 
 A responsive web application for managing income, expenses, budgets, and savings goals.
 
+Live Demo: https://fin-track-15d85c.netlify.app
+
 Technologies: HTML, CSS, JavaScript, LocalStorage
 
 2. Study Planner App
